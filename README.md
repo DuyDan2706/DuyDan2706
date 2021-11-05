@@ -14,7 +14,7 @@
 
 ## **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working at FPT Software.
+- 👨🏽‍💻 I am currently studying at FPT University.
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc...
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via Duydan272000@gmail.com to reach me.
